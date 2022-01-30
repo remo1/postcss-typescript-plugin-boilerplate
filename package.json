@@ -1,0 +1,21 @@
+{
+  "name": "postcss-typescript-plugin-boilerplate",
+  "version": "1.0.0",
+  "description": "You're looking for a postcss plugin boilerplate with typescript? You found it.",
+  "main": "cli",
+  "scripts": {
+    "run": "./cli"
+  },
+  "keywords": [
+    "postcss",
+    "boilerplate",
+    "plugin",
+    "typescript",
+    "clean",
+    "postcss-plugin",
+    "typescript-postcss",
+    "ts-postcss"
+  ],
+  "author": "Remy Oleszczuk",
+  "license": "ISC"
+}

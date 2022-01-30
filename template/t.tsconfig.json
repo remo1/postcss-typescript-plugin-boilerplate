@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "amd",
+    "moduleResolution": "node",
+    "baseUrl": "src",
+    "sourceMap": true,
+    "target": "es6",
+    "lib": [
+      "dom",
+      "esnext"
+    ],
+    "outDir": "dist",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "isolatedModules": false,
+    "resolveJsonModule": true,
+    "outFile": "index.js"
+  },
+  "exclude": ["index.test.ts"]
+}
